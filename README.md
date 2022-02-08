@@ -11,4 +11,4 @@ G-Bot alieves the user of this hindrance, and makes booking a gym activity quick
 
 ## How do I get Started?
 
-Download the repository and run the application in the 'buttonClicker.py' file
+Download the repository and run the application in the 'main.py' file
